@@ -23,7 +23,7 @@ def main():
         elif pilihan == "4":
             view_mhs.ubah_data()
         elif pilihan == "5":
-            print("Program selesai. Terima kasih!")
+            print("Program selesai!")
             break
         else:
             print("Pilihan tidak valid. Silakan coba lagi.")
