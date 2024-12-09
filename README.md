@@ -21,8 +21,8 @@
      **Penjelasan:**
      * **Class Mahasiswa:**
          - Class ini adalah **model** untuk data mahasiswa.
-         - **__init__:** Konstruktor yang menerima tiga parameter (nim, nama, jurusan) dan menyimpannya sebagai atribut.
-         - **__str__:** Method khusus untuk mengembalikan representasi string dari objek Mahasiswa. Ini berguna ketika kita mencetak objek mahasiswa menggunakan print.
+         - **__ init__:** Konstruktor yang menerima tiga parameter (nim, nama, jurusan) dan menyimpannya sebagai atribut.
+         - **__ str__:** Method khusus untuk mengembalikan representasi string dari objek Mahasiswa. Ini berguna ketika kita mencetak objek mahasiswa menggunakan print.
 
 2.	**File:** view/input_form.py
 
